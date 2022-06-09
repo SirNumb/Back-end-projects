@@ -1,5 +1,7 @@
 # Back-end-projects
 
+#### The purpose of this repository is as a portfolio of my recent projects i worked on! feel free to use the assets or get inspired if they help you with anything, not the entire code had been uploaded although if you're interested in other pieces of code or need something explained we can discuss in private (Numb#2004)
+
 ## 1 : A* Pathfinder Algorithm implementation on ROBLOX
 
   A node based pathfinder algorithm translated from c-sharp for luau with very fast Responses
