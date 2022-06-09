@@ -199,6 +199,26 @@ https://user-images.githubusercontent.com/69503016/172955171-0aea4501-4671-4391-
 https://user-images.githubusercontent.com/69503016/172955282-4ca9ffb2-7bef-4206-88fa-8814da27a2b7.mp4
 
 
+### Custom lightweight player replication:
+	added to support 700+ players in one server
+
+![RobloxStudioBeta_xVhnVCpLof](https://user-images.githubusercontent.com/69503016/172958052-11d0aad8-dcd4-4267-95d8-1fa44a60343c.png)
+
+![RobloxStudioBeta_2PYoaS5Amo](https://user-images.githubusercontent.com/69503016/172958067-357f1a09-1160-4d05-b461-4556eb99a978.png)
+
+### Gun system:
+
+![RobloxStudioBeta_TtJdtQr7bN](https://user-images.githubusercontent.com/69503016/172958285-7281b8d2-cb0f-4291-9785-9cad888fdd3b.png)
+![RobloxStudioBeta_lHv2oY80Cg](https://user-images.githubusercontent.com/69503016/172958346-efefd472-7487-4841-a8bd-aa3067fd05f3.png)
+![RobloxStudioBeta_RjMF9MZHX9](https://user-images.githubusercontent.com/69503016/172958379-3ca7d7c3-44ed-48c0-b2cb-c43c7a935b47.png)
+
+https://user-images.githubusercontent.com/69503016/172958613-ebd58c21-4af9-4b0d-b58b-00a735ec45b8.mp4
+
+#### With FPS support!!:
+
+
+https://user-images.githubusercontent.com/69503016/172958656-0a512cfc-8094-4e65-90c8-ac41439329ea.mp4
+
 
 
 
